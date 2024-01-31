@@ -1,0 +1,6 @@
+cat main.cpp | wc -l
+cat *.cpp | wc -l
+lines=$(cat *.cpp | wc -l)
+ls -R
+CTRL + P -> chiama file by name
+nella notazione yml steps è un array perché c'è un meno
