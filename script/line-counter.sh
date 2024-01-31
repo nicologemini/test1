@@ -1,2 +1,2 @@
 lines=$(cat *.cpp | wc -l)
-echo my code base containes $lines code lines
+echo my code contains $lines code lines > README.md
